@@ -5,7 +5,7 @@
 
 # Sobre mim! 👋😄
 
-<img  height="300rem" align="right" alt="GIF" src="https://user-images.githubusercontent.com/107278485/201257675-97b23c53-3f45-4077-b3a9-4268b3e2e0b7.gif" />
+<img  height="200rem" align="right" alt="GIF" src="https://user-images.githubusercontent.com/107278485/201257675-97b23c53-3f45-4077-b3a9-4268b3e2e0b7.gif" />
 <div>
 Tenho 25 anos, estou cursando o 2º semestre de Engenharia de Software na Estácio e em paralelo com a faculdade estou estudando e colocando em prática 
 projetos relacionados à área de desenvolvimento web. 
@@ -15,7 +15,7 @@ Busco por uma oportunidade de inserir-me no mercado de tecnologia para desenvolv
  
 <br>
 <br>
-<br>
+
 
 
 Futuro Desenvolvedor Full Stack
@@ -25,8 +25,8 @@ Futuro Desenvolvedor Full Stack
 
 <div align="center">
   <a href="https://github.com/Thiago-Cardoso-de-Vasconcelos">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Cardoso-de-Vasconcelos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Cardoso-de-Vasconcelos&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Cardoso-de-Vasconcelos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Cardoso-de-Vasconcelos&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
   
